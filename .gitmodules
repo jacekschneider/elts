@@ -1,0 +1,12 @@
+[submodule "layers/meta-elts"]
+	path = layers/meta-elts
+	url = https://github.com/jacekschneider/meta-elts.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "layers/meta-raspberrypi"]
+	path = layers/meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
