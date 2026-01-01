@@ -28,3 +28,6 @@
 [submodule "layers/meta-virtualization"]
 	path = layers/meta-virtualization
 	url = https://git.yoctoproject.org/git/meta-virtualization
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
