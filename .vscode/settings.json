@@ -1,9 +1,4 @@
 {
-    "files.associations": {
-        "*.conf": "bitbake",
-        "*.inc": "bitbake"
-    },
-    "bitbake.pathToBuildFolder": "/home/lschneider/elts/build",
     "python.autoComplete.extraPaths": [
         "${workspaceFolder}/poky/bitbake/lib",
         "${workspaceFolder}/poky/meta/lib"
@@ -11,13 +6,5 @@
     "python.analysis.extraPaths": [
         "${workspaceFolder}/poky/bitbake/lib",
         "${workspaceFolder}/poky/meta/lib"
-    ],
-    "bitbake.workingDirectory": "/home/lschneider/elts",
-    "bitbake.pathToBitbakeFolder": "${workspaceFolder}/poky/bitbake",
-    "bitbake.buildConfigurations": [
-
-    ],
-    "bitbake.disableDevtoolDebugBuild": false,
-    "bitbake.disableConfigModification": false,
-    "bitbake.pathToEnvScript": "${workspaceFolder}/poky/oe-init-build-env"
+    ]
 }
