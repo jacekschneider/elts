@@ -16,18 +16,6 @@
 [submodule "layers/meta-arm"]
 	path = layers/meta-arm
 	url = https://git.yoctoproject.org/git/meta-arm
-[submodule "layers/meta-petalinux"]
-	path = layers/meta-petalinux
-	url = https://github.com/Xilinx/meta-petalinux.git
-[submodule "layers/meta-xilinx-tools"]
-	path = layers/meta-xilinx-tools
-	url = https://github.com/Xilinx/meta-xilinx-tools.git
-[submodule "layers/meta-security"]
-	path = layers/meta-security
-	url = https://git.yoctoproject.org/git/meta-security
-[submodule "layers/meta-virtualization"]
-	path = layers/meta-virtualization
-	url = https://git.yoctoproject.org/git/meta-virtualization
-[submodule "layers/meta-qt5"]
-	path = layers/meta-qt5
-	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "TE0726-04-41C94-A-prebuilt"]
+	path = TE0726-04-41C94-A-prebuilt
+	url = https://github.com/jacekschneider/TE0726-04-41C94-A-prebuilt.git
