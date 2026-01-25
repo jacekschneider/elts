@@ -7,10 +7,9 @@
                            
 You can now run: 
 
+MACHINE=raspberrypi4-64
   bitbake elts-image
   bitbake elts-image -c populate_sdk
 
-Other commonly useful commands are:
- - 'devtool' and 'recipetool' handle common recipe tasks
- - 'bitbake-layers' handles common layer tasks
- - 'oe-pkgdata-util' handles common target package tasks
+MACHINE=zynq-generic
+  bitbake petalinux-image-minimal
